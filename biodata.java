@@ -8,6 +8,6 @@ class biodata {
 
     System.out.println("Nama : " + nama);
     System.out.println("NIM : " + nim);
-    System.out.println("Program Studi : " + prodi + kampus);
+    System.out.println("Program Studi : " + prodi + " " + kampus);
   }
 }
