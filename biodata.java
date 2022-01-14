@@ -1,7 +1,7 @@
 class biodata {
   public static void main(String[] args) {
-    String nama = "Rahmat Agung Julians";
-    String nim = "191223045";
+    String nama = "Agung Harry Rahmatillah";
+    String nim = "1702001";
     String prodi = "Pendidikan Teknologi Informasi dan Komputer";
     String kampus = "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Muhammadiyah Kuningan";
 
